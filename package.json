@@ -1,0 +1,47 @@
+{
+  "name": "gatsby-sanity-i18n-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gatsby starter for search-engine friendly, multilanguage websites with sanity.io ",
+  "author": "Ahmed Abdulrahman <ahmed.abdulrahman@dazn.studio>",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "dotenv": "^14.3.2",
+    "gatsby": "^4.6.0",
+    "gatsby-plugin-emotion": "^7.6.0",
+    "gatsby-plugin-google-analytics": "^4.6.0",
+    "gatsby-plugin-image": "^2.6.0",
+    "gatsby-plugin-manifest": "^4.6.0",
+    "gatsby-plugin-mdx": "^3.6.0",
+    "gatsby-plugin-react-helmet": "^5.6.0",
+    "gatsby-plugin-sharp": "^4.6.0",
+    "gatsby-plugin-sitemap": "^5.6.0",
+    "gatsby-plugin-theme-ui": "^0.13.1",
+    "gatsby-source-filesystem": "^4.6.0",
+    "gatsby-source-sanity": "^7.3.2",
+    "gatsby-transformer-sharp": "^4.6.0",
+    "lodash": "^4.17.21",
+    "prettier": "^2.5.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "theme-ui": "^0.13.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "gatsby-plugin-root-import": "^2.0.8"
+  }
+}
